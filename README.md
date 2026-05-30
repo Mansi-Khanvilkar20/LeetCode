@@ -21,4 +21,8 @@ DSA practice + LeetCode solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0027-remove-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
