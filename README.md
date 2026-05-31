@@ -8,6 +8,7 @@ DSA practice + LeetCode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0027-remove-element) |
+| [2126-destroying-asteroids](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ DSA practice + LeetCode solutions
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0182-duplicate-emails) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
