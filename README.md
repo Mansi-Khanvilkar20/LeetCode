@@ -27,6 +27,7 @@ DSA practice + LeetCode solutions
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0182-duplicate-emails) |
 ## Greedy
 |  |
