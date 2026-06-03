@@ -19,6 +19,7 @@ DSA practice + LeetCode solutions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -45,4 +46,12 @@ DSA practice + LeetCode solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
