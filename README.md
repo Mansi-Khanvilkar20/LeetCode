@@ -49,6 +49,7 @@ DSA practice + LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Mansi-Khanvilkar20/LeetCode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
